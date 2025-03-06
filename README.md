@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ronny and I'm a AI developer/Engineer...</h2>
+<h2 align="center">Hi 👋! My name is Ronny and I'm an AI Developer...</h2>
 
 ###
 
